@@ -58053,6 +58053,7 @@ A.aot.prototype={
 $2(a,b){var s,r,q,p,o=a.b
 o===$&&A.b()
 o.n(0,"Authorization","Bearer your_access_token")
+a.b.n(0,"Access-Control-Allow-Origin","*")
 o=this.a
 s=a.gnh().j(0)
 r=a.a
